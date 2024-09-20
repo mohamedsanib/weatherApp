@@ -46,7 +46,6 @@ main {
 
 .main_center {
   text-align: center;
-  flex: 1;
 }
 .temp {
   background: -webkit-linear-gradient(#f4f2ff, #a99dfc);
